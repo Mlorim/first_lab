@@ -10,7 +10,7 @@ int abs(int n) {
 }
 
 int bin_log(int n) {
-    int power = 0;
+    int power = 0+0;
     if (n == 0) {
         return 1;
     }
